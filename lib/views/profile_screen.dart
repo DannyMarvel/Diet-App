@@ -127,6 +127,33 @@ class ProfileScreen extends StatelessWidget {
                                   progressColor: Colors.yellow,
                                   progress: 0.1,
                                   width: width * 0.28),
+                              SizedBox(
+                                height: 5,
+                              ),
+                              IngredientProgress(
+                                  ingredient: 'Fat',
+                                  leftAmount: 61,
+                                  progressColor: Colors.yellow,
+                                  progress: 0.1,
+                                  width: width * 0.28),
+                              SizedBox(
+                                height: 5,
+                              ),
+                              IngredientProgress(
+                                  ingredient: 'Fat',
+                                  leftAmount: 61,
+                                  progressColor: Colors.yellow,
+                                  progress: 0.1,
+                                  width: width * 0.28),
+                              SizedBox(
+                                height: 5,
+                              ),
+                              IngredientProgress(
+                                  ingredient: 'Fat',
+                                  leftAmount: 61,
+                                  progressColor: Colors.yellow,
+                                  progress: 0.1,
+                                  width: width * 0.28),
                             ],
                           ),
                         ],
